@@ -1,0 +1,42 @@
+img {
+display:block;
+height:92px;
+width:272px;
+text-align: center;
+margin-left:auto;
+margin-right: auto;
+margin-top: 198px;
+}
+
+input {
+display:block;
+margin-top: 10px;
+margin-left:auto;
+margin-right:auto;
+}
+.searchbar {
+width:582px;
+height: 38px;
+border:solid 1px #2196f3;
+padding:10px;
+font-size:16px;  
+}
+.indbuttons {
+display:inline-block;
+font-family: arial;
+font-weight: 700;
+font-size: 13px;
+font-color: #444;
+width: 139px;
+height: 40px;
+border: none;
+background-color:f2f2f2;
+}
+
+#allbutton {
+text-align:center;
+padding-top: 3px;
+padding:4px;
+
+
+}
